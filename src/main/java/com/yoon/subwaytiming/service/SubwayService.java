@@ -9,6 +9,10 @@ public class SubwayService {
         System.out.println("test");
     }
 
+    public void test2(){
+        System.out.println("Test2");
+    }
+
     public void test3() {
         System.out.println("test3");
     }
