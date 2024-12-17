@@ -5,16 +5,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class SubwayService {
 
-    public void test() {
-        System.out.println("test");
-    }
+    public void test4() {
 
-    public void test2(){
-        System.out.println("Test2");
+        System.out.println("test4");
     }
-
-    public void test3() {
-        System.out.println("test3");
-    }
-
 }
