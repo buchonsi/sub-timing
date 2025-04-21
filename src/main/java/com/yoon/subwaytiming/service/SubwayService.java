@@ -33,4 +33,7 @@ public class SubwayService {
     public void test9() {
         System.out.println("master_test2");
     }
+    public void test10() {
+        System.out.println("test10");
+    }
 }
