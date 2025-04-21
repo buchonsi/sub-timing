@@ -11,4 +11,7 @@ public class SubwayService {
     public void test6() {
         System.out.println("master_test2");
     }
+    public void test7() {
+        System.out.println("master_test2");
+    }
 }
