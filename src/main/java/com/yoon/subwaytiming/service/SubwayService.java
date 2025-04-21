@@ -4,6 +4,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class SubwayService {
+<<<<<<< HEAD
     public void test3() {
         System.out.println("test3");
     }
@@ -35,5 +36,8 @@ public class SubwayService {
     }
     public void test10() {
         System.out.println("test10");
+
+    public void test1() {
+        System.out.println("test1");
     }
 }
