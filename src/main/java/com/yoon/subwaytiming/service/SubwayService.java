@@ -4,19 +4,8 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class SubwayService {
-    public void test5() {
-        System.out.println("master_test1");
-    }
 
-    public void test6() {
-        System.out.println("master_test2");
-    }
-    public void test7() {
-        System.out.println("master_test2");
-    }
-    public void test10() {
-        System.out.println("test10");
-    public void test9() {
-        System.out.println("master_test2");
+    public void test1() {
+        System.out.println("test1");
     }
 }
