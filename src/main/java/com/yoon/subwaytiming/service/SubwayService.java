@@ -8,7 +8,7 @@ public class SubwayService {
         System.out.println("master_test1");
     }
 
-    public void test6() {
+    public void test6_master_test() {
         System.out.println("master_test2");
     }
 }
